@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624989812044",
+    "project_id": "chat-app-624d2",
+    "storage_bucket": "chat-app-624d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624989812044:android:2e4b2cb61ad68335340be9",
+        "android_client_info": {
+          "package_name": "com.savasaachi.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2oJA3xzzCcyZ9jkK5KaeYoYIa6jgFkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
